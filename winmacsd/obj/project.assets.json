@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tevit/Desktop/S&D/winmacsd/winmacsd/winmacsd.csproj",
+      "projectUniqueName": "/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/winmacsd.csproj",
       "projectName": "winmacsd",
-      "projectPath": "/Users/tevit/Desktop/S&D/winmacsd/winmacsd/winmacsd.csproj",
+      "projectPath": "/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/winmacsd.csproj",
       "packagesPath": "/Users/tevit/.nuget/packages/",
-      "outputPath": "/Users/tevit/Desktop/S&D/winmacsd/winmacsd/obj",
+      "outputPath": "/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

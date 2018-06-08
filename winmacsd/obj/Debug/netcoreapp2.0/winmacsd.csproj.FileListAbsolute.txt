@@ -1,0 +1,11 @@
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/bin/Debug/netcoreapp2.0/winmacsd.deps.json
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/bin/Debug/netcoreapp2.0/winmacsd.runtimeconfig.json
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/bin/Debug/netcoreapp2.0/winmacsd.runtimeconfig.dev.json
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/bin/Debug/netcoreapp2.0/winmacsd.dll
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/bin/Debug/netcoreapp2.0/winmacsd.pdb
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj/Debug/netcoreapp2.0/winmacsd.csprojResolveAssemblyReference.cache
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj/Debug/netcoreapp2.0/winmacsd.csproj.CoreCompileInputs.cache
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj/Debug/netcoreapp2.0/winmacsd.AssemblyInfoInputs.cache
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj/Debug/netcoreapp2.0/winmacsd.AssemblyInfo.cs
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj/Debug/netcoreapp2.0/winmacsd.dll
+/Users/tevit/Desktop/S&D/winmacsd/SDWINMAC/winmacsd/obj/Debug/netcoreapp2.0/winmacsd.pdb
